@@ -24,7 +24,6 @@
 |--------|-------------|------|
 | 🔢 Simple Calculator | Web calculator using HTML, CSS, JS, and Bootstrap | [View Repo](https://github.com/Riss27/simple-calculator) |
 | 📝 To-Do List App | Modern to-do list with localStorage & filters | [View Repo](https://github.com/Riss27/simple-todo-app) |
-| 📱 MangTodo (Mobile) | Kotlin-based offline to-do app | *Coming Soon...* |
 
 ---
 
